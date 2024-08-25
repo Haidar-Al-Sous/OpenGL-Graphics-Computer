@@ -1,1 +1,1 @@
-# Graphics-Computer
+#OpenGL C++ Graphics-Computer
