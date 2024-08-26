@@ -1,5 +1,14 @@
 # OpenGL C++ Graphics-Computer
 
+## Projects 
+- house 3D
+- wind turbines on a green hill 2D
+- geometric ball 3D
+- 
+
+## Demo
+- To view code execution scenes [here](https://github.com/Haidar-Al-Sous/Graphics-Computer/tree/main/Demo)
+
 ## Setup
 - Download "Visual studio Professional 2012"
 - Read the PDF on setting up OpenGL from [here](https://github.com/Haidar-Al-Sous/Graphics-Computer/tree/main/Setting%20Up%20OpenGL)
