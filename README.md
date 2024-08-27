@@ -4,6 +4,7 @@
 - house 3D
 - wind turbines on a green hill 2D
 - geometric ball 3D
+- Celestial-Objects
 - 
 
 ## Demo
