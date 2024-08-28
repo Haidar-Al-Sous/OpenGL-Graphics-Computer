@@ -6,7 +6,7 @@
 - geometric ball 3D
 - Celestial-Objects
 - Robot in city
-- Counter strike
+- Counter strike ( The biggest project! )
 
 ## Demo
 - To view code execution scenes [here](https://github.com/Haidar-Al-Sous/Graphics-Computer/tree/main/Demo)
