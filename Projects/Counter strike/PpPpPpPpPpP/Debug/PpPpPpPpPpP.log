@@ -1,0 +1,22 @@
+﻿Build started 8/27/2024 11:18:26 AM.
+     1>Project "C:\Users\USER\Desktop\Graphics-Computer\Projects\Counter strike\PpPpPpPpPpP\PpPpPpPpPpP.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "..\..\4_5924795664142699681\خاص بالغرافيكس\CPP\Sound.cpp" SsSsSsSsS.cpp lib\3DTexture.cpp lib\Model_3DS.cpp lib\camera.cpp lib\heightMap.cpp
+         heightMap.cpp
+     1>c:\users\user\desktop\graphics-computer\projects\counter strike\ppppppppppp\lib\heightmap.cpp(5): fatal error C1083: Cannot open include file: 'texture.h': No such file or directory
+         camera.cpp
+     1>c:\users\user\desktop\graphics-computer\projects\counter strike\ppppppppppp\lib\camera.cpp(8): fatal error C1083: Cannot open include file: 'camera.h': No such file or directory
+         Model_3DS.cpp
+     1>c:\users\user\desktop\graphics-computer\projects\counter strike\ppppppppppp\lib\model_3ds.cpp(81): fatal error C1083: Cannot open include file: 'Model_3DS.h': No such file or directory
+         3DTexture.cpp
+     1>c:\users\user\desktop\graphics-computer\projects\counter strike\ppppppppppp\lib\3dtexture.cpp(37): fatal error C1083: Cannot open include file: '3DTexture.h': No such file or directory
+         SsSsSsSsS.cpp
+     1>c:\users\user\desktop\graphics-computer\projects\counter strike\ppppppppppp\sssssssss.cpp(8): fatal error C1083: Cannot open include file: 'texture.h': No such file or directory
+         Sound.cpp
+     1>c1xx : fatal error C1083: Cannot open source file: '..\..\4_5924795664142699681\خاص بالغرافيكس\CPP\Sound.cpp': No such file or directory
+         Generating Code...
+     1>Done Building Project "C:\Users\USER\Desktop\Graphics-Computer\Projects\Counter strike\PpPpPpPpPpP\PpPpPpPpPpP.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.57
